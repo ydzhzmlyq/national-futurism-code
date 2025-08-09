@@ -1,0 +1,9 @@
+torch>=1.12
+torchvision
+transformers>=4.20
+scikit-learn
+opencv-python
+pandas
+nltk
+networkx
+tqdm
